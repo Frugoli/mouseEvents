@@ -1,0 +1,12 @@
+body    {
+    background: wheat;
+}
+div#bloco   {
+    color: white;
+    font: normal 25pt Arial;
+    background: rgb(139, 139, 233);
+    height: 250px;
+    width: 250px;
+    text-align: center;
+    line-height: 240px;
+}
